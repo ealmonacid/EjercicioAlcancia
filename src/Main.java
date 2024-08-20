@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        //Elkin Yamith Almonacid López
         Scanner teclado = new Scanner(System.in);
         int num=0;
         int mon, total20, total50, total100, total200, total500, total;
