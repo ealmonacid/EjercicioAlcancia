@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         //Elkin Yamith Almonacid López
+        //El siguiente codigo simula el funcionamiento de una alcancia con opciones que permiten añadir monedas, contarlas, calcular el total del dinero y romperla.
+        //20-08-2024
         Scanner teclado = new Scanner(System.in);
         int num=0;
         int mon, total20, total50, total100, total200, total500, total;
